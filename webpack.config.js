@@ -15,7 +15,7 @@ const plugins = [
         filename: '../index.html',
         links: links,
         template: 'index-file-template.ejs',
-        title: "Screen Size Calculator"
+        title: "Title"
     })
 ];
 
